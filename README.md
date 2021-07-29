@@ -1,10 +1,10 @@
-### Hi there, my name is Matheus, nice to meet 👋
+## Hi there, my name is Matheus, nice to meet 👋
 
 
 
-##A little about myself
+A little about myself
 
-# 🔭 I’m currently working at, Linx as an apprentice
-# 📚 I am currently studying Information Systems at Unifafibe Bebedouro SP
-# 😎 I'm always looking to learn more about technologies
-# ⚡ curiosity:I love coffee☕❤
+### 🔭 I’m currently working at, Linx as an apprentice
+### 📚 I am currently studying Information Systems at Unifafibe Bebedouro SP
+### 😎 I'm always looking to learn more about technologies
+### ⚡ curiosity:I love coffee☕❤
