@@ -17,7 +17,8 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: Visual Studio Code
+  IntelliJ IDEA
 </p>
 
 <p align="left">
