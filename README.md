@@ -26,7 +26,7 @@
 </p>
 
 <p align="left">
-  <a href="bentomatheus48@gmail.com" title="Gmail">
+  <a href="mailto:bentomatheus48@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=bentomatheus48@gmail.com" alt="Gmail"/></a>
 
   <a href="https://www.linkedin.com/in/matheus-fell/" title="LinkedIn">
