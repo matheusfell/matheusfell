@@ -27,7 +27,7 @@
 <p align="left">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white">
 </p>
 
 <p align="left">
