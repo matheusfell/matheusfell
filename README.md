@@ -74,16 +74,17 @@ Atualmente trabalho na **Reis Advogados**, desenvolvendo aplicações corporativ
 
 ---
 
-## 🚀 Atualmente estudando
+## 📚 Atualmente estudando
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform" />
+  <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,aws" />
 </p>
 
-* Observabilidade
-* Arquitetura de Microsserviços
-* Kubernetes Avançado
-* Cloud Computing
+- 🤖 Inteligência Artificial aplicada ao desenvolvimento de software
+- 🐍 Boas práticas e padrões avançados em Python
+- ☸️ Kubernetes para ambientes distribuídos e escaláveis
+- 🐳 Docker e estratégias de conteinerização
+- ⚙️ Arquitetura de sistemas e automação de processos
 
 ---
 
