@@ -25,7 +25,7 @@ Atualmente atuo na **Reis Advogados**, desenvolvendo aplicações corporativas, 
 ### 🖥️ Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 </p>
 
 ### 🗄️ Bancos de Dados
