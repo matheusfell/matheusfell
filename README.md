@@ -63,7 +63,7 @@ Atualmente atuo na **Reis Advogados**, desenvolvendo aplicações corporativas, 
 ### 🛠️ Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman" />
+  <img src="https://skillicons.dev/icons?i=cursor,vscode,visualstudio,idea,postman" />
 </p>
 
 ---
