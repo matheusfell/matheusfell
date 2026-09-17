@@ -94,7 +94,7 @@ Bot em Python que transforma mensagens do Telegram em registros versionados auto
 
 🔒 **Repositório privado**
 
-### 🛰️ Ambush
+### 🛰️ [Ambush](https://github.com/matheusfell/Ambush)
 
 Sistema para monitoramento de aplicações e serviços, centralizando disponibilidade e saúde dos sistemas.
 
